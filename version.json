@@ -1,5 +1,6 @@
+{
   "version": "3.2",
   "min_version": "3.2",
-  "download_url": "https://raw.githubusercontent.com/outlawzpt/beaircp-version/refs/heads/main/version.json",
   "release_date": "2026-04-07",
   "notes": "BeAirCP v3.1 — instalador"
+}
